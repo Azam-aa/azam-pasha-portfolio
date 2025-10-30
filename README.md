@@ -48,3 +48,5 @@ npm install
 - `npm run dev` → Start local development server  
 - `npm run build` → Build production bundle  
 - `npm run preview` → Preview production build locally
+
+Feel free to connect and do some crazy projects and learn
