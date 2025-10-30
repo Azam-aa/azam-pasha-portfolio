@@ -50,3 +50,4 @@ npm install
 - `npm run preview` → Preview production build locally
 
 Feel free to connect and do some crazy projects and learn
+LinkdIn - Github - Leetcode - Contact Number
